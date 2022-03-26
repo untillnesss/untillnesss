@@ -14,8 +14,8 @@ Waktu SMK, saya juga mendapatkan pengalaman menghadiri seminar, mengikuti lomba 
 Saat saya menginjak kelas 2 SMK, Saya mulai tertarik untuk mempelajari Pengembangan Aplikasi Mobile, dan disitu saya memilih Flutter dengan bahasa Dart.
 
 Setelah lulus dari SMK saya memberanikan diri untuk mengadu nasib di Ibukota Jakarta pada umur 19 Tahun, dan di Tempat kerja yang saat ini, saya mendapatkan banyak ilmu lebih dalam lagi tentang Dunia Pengembangan Software dan banyak belajar hal-hal baru.
-</p>
 
+</p>
 
 <div>
   <a href="https://github.com/jonataslaw">
@@ -23,7 +23,6 @@ Setelah lulus dari SMK saya memberanikan diri untuk mengadu nasib di Ibukota Jak
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=untillnesss&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-  
 <p align="left">
   🦄 <strong>Skills:</strong> HTML5, CSS3, JavaScript, Bootstrap, Materialize, Flutter, Java, Kotlin, Swift, Objetive-c.
 </p>
@@ -33,5 +32,6 @@ Setelah lulus dari SMK saya memberanikan diri untuk mengadu nasib di Ibukota Jak
 </p>
 
 Emails:
+
 - said@majapahit.id
 - pvzuntil@gmail.com
