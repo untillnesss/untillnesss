@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
 
+# Perkenalan
+
 <p align="left"> 
 Saya Muhammad Abdullah Said, biasa di panggil <b>Sa'id</b>.
 
@@ -19,10 +21,15 @@ Saat saya menginjak kelas 2 SMK, Saya mulai tertarik untuk mempelajari Pengemban
 
 <hr>
 
+# Review Performa
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=untillnesss&count_private=true&theme=dark&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=untillnesss&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+###### \* ini hanya repository di Github, tapi kalau kerjaan ada di [Gitlab](https://gitlab.com/untillness).
+
 <hr>
 
 # Skills
