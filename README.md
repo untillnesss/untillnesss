@@ -40,9 +40,7 @@ Saat saya menginjak kelas 2 SMK, Saya mulai tertarik untuk mempelajari Pengemban
 <a href="https://www.instagram.com/untillness/">
   <img align="left" alt="Said's Instagram" width="100px" height="28px" src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white&color=purple" />
 </a>
-<a href="#">
-  <img width="150px" height="28px" src="https://komarev.com/ghpvc/?username=untillnesss&label=Profile Views&color=blue&style=for-the-badge" alt="untillnesss views" />
-</a>
+[](https://komarev.com/ghpvc/?username=untillnesss&color=blueviolet)
 <br/>
 
 <hr/>
