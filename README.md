@@ -41,7 +41,7 @@ Saat saya menginjak kelas 2 SMK, Saya mulai tertarik untuk mempelajari Pengemban
   <img align="left" alt="Said's Instagram" width="100px" height="28px" src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white&color=purple" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=untillnesss&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=untillnesss&color=blueviolet&style=for-the-badge)
 <br/>
 
 <hr/>
