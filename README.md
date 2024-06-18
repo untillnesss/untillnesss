@@ -98,7 +98,7 @@ Saat saya menginjak kelas 2 SMK, Saya mulai tertarik untuk mempelajari Pengemban
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<a href="https://github.com/untillnesss"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=untillnesss&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/untillnesss"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app//graph/?username=untillnesss&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 ###### \* ini hanya repository di Github, tapi kalau kerjaan ada di [Gitlab](https://gitlab.com/untillness).
