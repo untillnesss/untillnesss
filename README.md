@@ -49,13 +49,10 @@ Saat saya menginjak kelas 2 SMK, Saya mulai tertarik untuk mempelajari Pengemban
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming and markup languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,php,laravel,dart,flutter,kotlin,bash,sh,filament)](https://skillicons.dev)
 
 ### 🗄️ Databases
-<code><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFA611.svg?logo=firebase&logoColor=white"></code>
-<code><img alt="MySql" src="https://img.shields.io/badge/MySql-fff.svg?logo=mysql&logoColor=black"></code>
-<code><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></code>
-<code><img alt="Json" src="https://img.shields.io/badge/Javascript Object Notation-fff.svg?logo=json&logoColor=black"></code>
+[![My Skills](https://skillicons.dev/icons?i=firebase,mysql,postgres,psql)](https://skillicons.dev)
 
 <!-- ### 🌐 Operations
 <code><img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-008bcf.svg?logo=digitalocean&logoColor=white"></code>
@@ -66,13 +63,7 @@ Saat saya menginjak kelas 2 SMK, Saya mulai tertarik untuk mempelajari Pengemban
 <code><a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a></code> -->
 
 ### 💻 Software and tools
-
-<code><img alt="Vs Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?logo=Visual Studio Code&logoColor=white"></code>
-<code><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></code>
-<code><img alt="X Code" src="https://img.shields.io/badge/Xcode-008678.svg?logo=xcode&logoColor=white"></code>
-<code><img alt="Git" src="https://img.shields.io/badge/Git-008678.svg?logo=git&logoColor=white"></code>
-<code><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></code>
-<code><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></code>
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,apple,git,postman,stackoverflow)](https://skillicons.dev)
 
 ### 💻 Multimedia
 <code><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white"></code>
