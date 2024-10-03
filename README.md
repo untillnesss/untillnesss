@@ -63,7 +63,7 @@ Saat saya menginjak kelas 2 SMK, Saya mulai tertarik untuk mempelajari Pengemban
 <code><a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a></code> -->
 
 ### 💻 Software and tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,apple,git,postman,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,apple,git,postman,stackoverflow,figma)](https://skillicons.dev)
 
 ### 💻 Multimedia
 <code><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white"></code>
