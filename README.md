@@ -28,7 +28,7 @@ Saat saya menginjak kelas 2 SMK, Saya mulai tertarik untuk mempelajari Pengemban
 
 <hr>
 
-<a href="https://www.linkedin.com/in/moch-abdullah-said-4801551b3/">
+<a href="https://www.linkedin.com/in/muhammad-abdullah-said-4801551b3/">
   <img align="left" alt="Said's Linkedin" width="100px" height="28px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://t.me/untillness">
