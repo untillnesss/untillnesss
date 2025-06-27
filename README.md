@@ -49,7 +49,7 @@ Saat saya menginjak kelas 2 SMK, Saya mulai tertarik untuk mempelajari Pengemban
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming and markup languages
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,php,laravel,dart,flutter,kotlin,bash,sh,filament,cpp,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,php,laravel,dart,flutter,kotlin,bash,cpp,arduino,latex)](https://skillicons.dev)
 
 ### 🗄️ Databases
 [![My Skills](https://skillicons.dev/icons?i=firebase,mysql,postgres,psql)](https://skillicons.dev)
@@ -63,7 +63,7 @@ Saat saya menginjak kelas 2 SMK, Saya mulai tertarik untuk mempelajari Pengemban
 <code><a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a></code> -->
 
 ### 💻 Software and tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,apple,git,postman,stackoverflow,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,apple,git,postman,stackoverflow,figma,docker)](https://skillicons.dev)
 
 ### 💻 Multimedia
 <code><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white"></code>
