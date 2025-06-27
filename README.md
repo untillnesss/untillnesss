@@ -49,7 +49,7 @@ Saat saya menginjak kelas 2 SMK, Saya mulai tertarik untuk mempelajari Pengemban
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming and markup languages
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,php,laravel,dart,flutter,kotlin,bash,sh,filament)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,php,laravel,dart,flutter,kotlin,bash,sh,filament,cpp,arduino)](https://skillicons.dev)
 
 ### 🗄️ Databases
 [![My Skills](https://skillicons.dev/icons?i=firebase,mysql,postgres,psql)](https://skillicons.dev)
